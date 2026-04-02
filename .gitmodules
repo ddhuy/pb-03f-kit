@@ -1,3 +1,6 @@
 [submodule "3rd_source/AiThinker-Open-PB-BleMesh"]
 	path = 3rd_source/AiThinker-Open-PB-BleMesh
 	url = https://github.com/Ai-Thinker-Open/AiThinker-Open-PB-BleMesh.git
+[submodule "3rd_source/PHY6252_6222_SDK"]
+	path = 3rd_source/PHY6252_6222_SDK
+	url = https://github.com/xuhongv/PHY6252_6222_SDK.git
